@@ -1,1 +1,1 @@
-# -generative_ai_tutorial
+# generative_ai_tutorial
